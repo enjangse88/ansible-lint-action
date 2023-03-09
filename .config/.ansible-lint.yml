@@ -1,0 +1,15 @@
+---
+skip_list:
+  - experimental
+  - fqcn-builtins
+  - fqcn[action]
+  - fqcn[action-core]
+  - fqcn[canonical]
+  - name[casing]
+  - yaml[empty-lines]
+  - yaml[indentation]
+  - yaml[new-line-at-end-of-file]
+  - yaml[trailing-spaces]
+  - yaml[truthy]
+  - meta-incorrect
+  - meta-no-info
